@@ -9,5 +9,4 @@
 
 #
 
-
-<iframe width="420" height="315"src="https://giphy.com/gifs/OkJat1YNdoD3W/html5"></iframe>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
