@@ -4,4 +4,4 @@
 
 <a href="https://fenohery-portfolio.web.app">This one - Made with Flutter for Web And Firebase Hosting</a>
 
-<a href="https://fenoh3ry.github.io">Or this on, made with HTML&CSS&JS - hosted on github page</a>
+<a href="https://fenoh3ry.github.io">Or this one, made with HTML&CSS&JS - hosted on github page</a>
