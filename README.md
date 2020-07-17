@@ -6,4 +6,4 @@
 
 <a href="https://fenoh3ry.github.io">Or this one, made with HTML&CSS&JS - hosted on github page</a>
 
-<img src="https://source.unsplash.com/@vmxhu/vE1As8YoJRs/1600x900" alt="welcome">
+<iframe src="https://giphy.com/embed/OkJat1YNdoD3W" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/welcome-OkJat1YNdoD3W">via GIPHY</a></p>
