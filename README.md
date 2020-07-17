@@ -9,4 +9,4 @@
 
 #
 
-<img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="900" height="900" />
+<img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif"  />
