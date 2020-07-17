@@ -2,6 +2,6 @@
 
 ## Visite my portfolio at :
 
-fenohery-portfolio.web.app
+<a href="https://fenohery-portfolio.web.app">This one - Made with Flutter for Web And Firebase Hosting</a>
 
-fenoh3ry.github.io
+<a href="https://fenoh3ry.github.io">Or this on, made with HTML&CSS&JS - hosted on github page</a>
