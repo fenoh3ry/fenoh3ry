@@ -15,8 +15,8 @@
 </h1>
 <h3 align="center">
   
-<a href="https://fenohery-portfolio.web.app">This one - Made with Flutter for Web And Firebase Hosting</a>
-<a href="https://fenoh3ry.github.io">Or this one, made with HTML&CSS&JS - hosted on github page</a>
+<a href="https://fenohery-portfolio.web.app">Here- Made with Flutter for Web And Firebase Hosting//</a>
+<a href="https://fenoh3ry.github.io">Or here, this one was made with HTML&CSS&JS - hosted on github page</a>
 
  </h3>
 
