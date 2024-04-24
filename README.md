@@ -16,7 +16,7 @@
 <h3 align="center">
   
 <a href="https://apollonlab.com">My Agency Portfolio</a> |
-<a href="https://fataplus.com">and a green movement for sustainability</a>
+<a href="https://fata.plus">and a green movement for sustainability</a>
 </h3>
 
 
